@@ -1,4 +1,4 @@
-# exex
+# ex
 ```
 ⬆️ (Replace above with your app's name)
 ```
